@@ -1,0 +1,13 @@
+https://www.mysqltutorial.org/mysql-views-tutorial.aspx/
+
+https://www.sqlservertutorial.net/sql-server-triggers/sql-server-instead-of-trigger/
+
+https://www.youtube.com/watch?v=uqaoGTnxqNw
+
+https://www.youtube.com/watch?v=ULWkSCAyYts
+
+https://www.youtube.com/watch?v=u96rVINbAUI
+
+https://www.mysqltutorial.org/mysql-views-tutorial.aspx/
+
+https://www.sqlservertutorial.net/sql-server-triggers/sql-server-instead-of-trigger/
